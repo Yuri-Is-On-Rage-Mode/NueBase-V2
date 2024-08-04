@@ -1,7 +1,8 @@
 # 🚀 Update 🚀
-# Nuebase v=1.0.1-stable
+# Nuebase v=2.0.1-stable
 - NueBase is a spiffy project manager for your groovy nue programs. 💻
-- Current Stable Version: `1.0.1` 
+- Current Stable Version: `2.0.1`
+  - Last Stable Version: `1.0.1` (a bit dated, if you ask me) 🕰️
   - Last Stable Version: `0.0.1` (a bit dated, if you ask me) 🕰️
     
 **Features:**
